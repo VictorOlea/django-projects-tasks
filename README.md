@@ -1,4 +1,4 @@
-# Sistema creación de proyectos y tareas
+# Sistema Gestión de Proyectos y Tareas
 
 ## Django
 
